@@ -1,0 +1,3 @@
+# robots.txt for bncapp.xyz
+User-agent: *
+Allow: /
